@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "426361685214",
+    "firebase_url": "https://notes-cb2d2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notes-cb2d2",
+    "storage_bucket": "notes-cb2d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426361685214:android:b4be300eddc99b0d49ae4f",
+        "android_client_info": {
+          "package_name": "io.gobpo2002.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426361685214-47rtii7mu7k0sspkk26jjavs4ajul1he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.gobpo2002.notes_app",
+            "certificate_hash": "c5fcc8dc081a68ed6ee0dc9977090a4220b8b23d"
+          }
+        },
+        {
+          "client_id": "426361685214-2tgpaman9eps4idicnu89n2id1f48j0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2zDJF60xuHmy9Ro33NAlpX9_bjgaPsaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426361685214-2tgpaman9eps4idicnu89n2id1f48j0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426361685214-bf7dpnn1o1l14jop2ljh9h44386hds65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.gobpo2002.notesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

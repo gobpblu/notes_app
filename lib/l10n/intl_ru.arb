@@ -1,0 +1,30 @@
+{
+  "notes": "Заметки",
+  "reminders": "Напоминания",
+  "profile": "Профиль",
+  "note_create": "Создание заметки",
+  "note_edit": "Редактирование заметки",
+  "enter_text": "Введите текст",
+  "enter_title": "Введите заголовок",
+  "login": "Авторизоваться",
+  "register": "Зарегистрироваться",
+  "email": "Почта",
+  "password": "Пароль",
+  "email_error_text": "Почта введена некорректно",
+  "password_error_text": "Пароль должен содержать минимум 6 символов",
+  "successfully_registered": "Пользователь успешно зарегистрирован",
+  "ok": "ОК",
+  "sign_in": "Войти",
+  "save_local_data_title": "Предупреждение",
+  "save_local_data_description": "У вас есть локальные заметки, хотите ли вы их сохранить?",
+
+  "button_yes": "Да",
+  "button_no": "Нет",
+  "button_save": "Сохранить",
+
+  "reminder_event": "Событие",
+  "reminder_task": "Задача",
+  "reminder_task_all_day": "Весь день",
+  "reminder_task_enter_description": "Введите описание",
+  "reminder_task_enter_title": "Введите заголовок"
+}

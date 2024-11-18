@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "426361685214",
+    "firebase_url": "https://notes-cb2d2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notes-cb2d2",
+    "storage_bucket": "notes-cb2d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426361685214:android:b4be300eddc99b0d49ae4f",
+        "android_client_info": {
+          "package_name": "io.gobpo2002.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2zDJF60xuHmy9Ro33NAlpX9_bjgaPsaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

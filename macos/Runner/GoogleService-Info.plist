@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB16SZV5Bh0e_C-2nLZktw240l-nBDMx28</string>
+	<key>GCM_SENDER_ID</key>
+	<string>426361685214</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.gobpo2002.notesApp</string>
+	<key>PROJECT_ID</key>
+	<string>notes-cb2d2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notes-cb2d2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:426361685214:ios:1bdb0b8457e1fa5849ae4f</string>
+	<key>DATABASE_URL</key>
+	<string>https://notes-cb2d2-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
